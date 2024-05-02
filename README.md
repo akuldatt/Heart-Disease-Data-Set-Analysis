@@ -28,8 +28,8 @@ The dataset used in this project contains information related to heart disease. 
 
 **Files:**
 
-1. **data_analysis.ipynb:** Jupyter Notebook containing the Python code for data analysis.
-2. **heart_disease_dataset.csv:** The dataset used for analysis.
+1. **Heart Disease Analysis.ipynb:** Jupyter Notebook containing the Python code for data analysis.
+2. **heart.csv:** The dataset used for analysis.
 3. **README.md:** This readme file providing an overview of the project.
 
 **Usage:**
@@ -40,6 +40,6 @@ To replicate the analysis or explore the code, follow these steps:
 4. Follow the instructions within the notebook to execute the code cells and visualize the results.
 
 **Contributors:**
-- [Your Name](link_to_github_profile) - Project Lead & Data Analyst
+- [Akul Datt](link_to_github_profile) - Project Lead & Data Analyst
 
 Feel free to contribute to this project by suggesting improvements or additional analyses! If you have any questions or feedback, please don't hesitate to reach out.
