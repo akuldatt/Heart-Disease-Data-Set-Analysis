@@ -40,6 +40,6 @@ To replicate the analysis or explore the code, follow these steps:
 4. Follow the instructions within the notebook to execute the code cells and visualize the results.
 
 **Contributors:**
-- [Akul Datt](link_to_github_profile) - Project Lead & Data Analyst
+- [Akul Datt](https://github.com/akuldatt) - Project Lead & Data Analyst
 
 Feel free to contribute to this project by suggesting improvements or additional analyses! If you have any questions or feedback, please don't hesitate to reach out.
