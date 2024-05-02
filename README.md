@@ -4,7 +4,7 @@
 This repository contains the code and documentation for a data analysis project focused on heart disease. The dataset used in this project was downloaded from Kaggle and various data analysis techniques were applied to explore and understand the dataset.
 
 **Dataset:**
-The dataset used in this project contains information related to heart disease. It includes features such as age, sex, cholesterol levels, blood pressure, etc. The dataset was obtained from Kaggle and can be found [here](link_to_dataset).
+The dataset used in this project contains information related to heart disease. It includes features such as age, sex, cholesterol levels, blood pressure, etc. The dataset was obtained from Kaggle and can be found [here](https://github.com/akuldatt/Heart-Disease-Data-Set-Analysis/blob/main/heart.csv).
 
 **Analysis Techniques:**
 
